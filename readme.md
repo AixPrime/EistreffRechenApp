@@ -1,4 +1,4 @@
-# RechenApp
+# Eistreff RechenApp
 
 RechenApp is a Python script that automates the process of taking quizzes on the website "http://quiz.eis-treff.de/". It uses Selenium WebDriver for browser automation. The main purpose was to automate the process of "learning" new prices for my Job at the icecream shop and to have fun learning python.
 
